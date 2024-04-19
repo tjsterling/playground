@@ -16,7 +16,7 @@ print(greeting)
 // camel case
 // swift best practice
 
-let firstGreeting = "Hello Wolrd"
+let firstGreeting = "Hello World"
 let thisIsMyFirstGreeting = ""
 
 // snake case
@@ -25,4 +25,4 @@ let this_is_snake_case = ""
 
 // pascal case
 
-let ThisIsPacalCase = ""
+let ThisIsPascalCase = ""

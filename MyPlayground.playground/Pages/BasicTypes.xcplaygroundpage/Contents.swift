@@ -2,7 +2,7 @@
 import Foundation
 
 // String is "regular Text"
-let myFirstItem = "Hello Wolrd"
+let myFirstItem = "Hello World"
 
 let mySecondItem: String = "Hello World"
 

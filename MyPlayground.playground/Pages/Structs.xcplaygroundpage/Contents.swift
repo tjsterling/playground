@@ -2,7 +2,7 @@ import Foundation
 
 // Structs are fast
 // Structs are stored in the Stack (memory)
-// Objects in Stack are value types
+// Objects in the Stack are value types
 // Value types are copied & mutated
 
 

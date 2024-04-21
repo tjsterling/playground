@@ -11,5 +11,6 @@
         <page name='Objects'/>
         <page name='Structs'/>
         <page name='Enums'/>
+        <page name='Class'/>
     </pages>
 </playground>

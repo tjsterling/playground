@@ -13,5 +13,6 @@
         <page name='Enums'/>
         <page name='Class'/>
         <page name='Access Control'/>
+        <page name='Arrays'/>
     </pages>
 </playground>
